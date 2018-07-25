@@ -18,7 +18,7 @@ from rest_framework.filters import OrderingFilter, SearchFilter
 
 
 #Complete ME!
-class LoginView():
+# class LoginView():
 
 
 class RegisterView(CreateAPIView):
